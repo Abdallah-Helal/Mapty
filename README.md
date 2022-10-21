@@ -50,5 +50,4 @@ Developed by **Abdallah Emad**
 ## Contact
 
 - Gmail: **[`abdallahelal102@gmail.com`]**
-- **[Gmail](abdallahelal102@gmail.com)**
 - **[LinkedIN](https://www.linkedin.com/in/abdalla-emad-40732b1b6/)**
